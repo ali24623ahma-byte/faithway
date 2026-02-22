@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270649271058",
+    "project_id": "project-1d052",
+    "storage_bucket": "project-1d052.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270649271058:android:14a86c3b99cc0edf3bc9cb",
+        "android_client_info": {
+          "package_name": "com.example.faithwayy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbnnviIsHdaliuTEDvqdybeXb1-sWq94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

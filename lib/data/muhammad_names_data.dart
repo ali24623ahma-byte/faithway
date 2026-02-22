@@ -1,0 +1,166 @@
+class MuhammadNamesData {
+  static List<Map<String, String>> names = [
+    {
+      "arabic": "مُحَمَّد ﷺ",
+      "english": "Muhammad",
+      "urdu": "بہت تعریف کیے گئے",
+    },
+    {
+      "arabic": "أَحْمَد ﷺ",
+      "english": "Ahmad",
+      "urdu": "سب سے زیادہ تعریف کرنے والے",
+    },
+    {"arabic": "حَامِد ﷺ", "english": "Hamid", "urdu": "حمد کرنے والے"},
+    {"arabic": "مَحْمُود ﷺ", "english": "Mahmood", "urdu": "قابلِ تعریف"},
+    {"arabic": "قَاسِم ﷺ", "english": "Qasim", "urdu": "تقسیم کرنے والے"},
+    {"arabic": "طٰهٰ ﷺ", "english": "Ta-Ha", "urdu": "قرآنی نام"},
+    {"arabic": "يٰسٓ ﷺ", "english": "Ya-Sin", "urdu": "قرآنی نام"},
+    {"arabic": "الْمُصْطَفَى ﷺ", "english": "Al-Mustafa", "urdu": "چنے ہوئے"},
+    {
+      "arabic": "الْمُجْتَبَى ﷺ",
+      "english": "Al-Mujtaba",
+      "urdu": "منتخب کیے گئے",
+    },
+    {
+      "arabic": "رَسُولُ اللّٰه ﷺ",
+      "english": "Rasoolullah",
+      "urdu": "اللہ کے رسول",
+    },
+    {
+      "arabic": "نَبِيُّ اللّٰه ﷺ",
+      "english": "Nabiullah",
+      "urdu": "اللہ کے نبی",
+    },
+    {
+      "arabic": "حَبِيبُ اللّٰه ﷺ",
+      "english": "Habibullah",
+      "urdu": "اللہ کے محبوب",
+    },
+    {
+      "arabic": "صَفِيُّ اللّٰه ﷺ",
+      "english": "Safiyullah",
+      "urdu": "اللہ کے برگزیدہ",
+    },
+    {"arabic": "الأَمِين ﷺ", "english": "Al-Ameen", "urdu": "امانت دار"},
+    {"arabic": "الصَّادِق ﷺ", "english": "As-Sadiq", "urdu": "سچے"},
+    {"arabic": "النُّور ﷺ", "english": "An-Noor", "urdu": "نور"},
+    {"arabic": "السِّرَاج ﷺ", "english": "As-Siraj", "urdu": "چراغ"},
+    {
+      "arabic": "السِّرَاجُ الْمُنِير ﷺ",
+      "english": "Siraj-ul-Muneer",
+      "urdu": "روشن چراغ",
+    },
+    {
+      "arabic": "الْبَشِير ﷺ",
+      "english": "Al-Basheer",
+      "urdu": "خوشخبری دینے والے",
+    },
+    {"arabic": "النَّذِير ﷺ", "english": "An-Nazeer", "urdu": "ڈر سنانے والے"},
+    {
+      "arabic": "رَحْمَةٌ لِّلْعَالَمِينَ ﷺ",
+      "english": "Rehmat-ul-lil-Alameen",
+      "urdu": "تمام جہانوں کے لیے رحمت",
+    },
+    {
+      "arabic": "خَاتَمُ النَّبِيِّين ﷺ",
+      "english": "Khatam-un-Nabiyeen",
+      "urdu": "آخری نبی",
+    },
+    {
+      "arabic": "سَيِّدُ الْمُرْسَلِينَ ﷺ",
+      "english": "Sayyid-ul-Mursaleen",
+      "urdu": "تمام رسولوں کے سردار",
+    },
+    {
+      "arabic": "عَبْدُ اللّٰه ﷺ",
+      "english": "Abdullah",
+      "urdu": "اللہ کے بندے",
+    },
+    {
+      "arabic": "عَبْدُ الرَّحْمٰن ﷺ",
+      "english": "Abdur Rahman",
+      "urdu": "رحمٰن کے بندے",
+    },
+    {
+      "arabic": "الشَّافِع ﷺ",
+      "english": "Ash-Shafi",
+      "urdu": "سفارش کرنے والے",
+    },
+    {
+      "arabic": "الْمُشَفَّع ﷺ",
+      "english": "Al-Mushaffa",
+      "urdu": "جن کی شفاعت قبول ہو",
+    },
+    {"arabic": "الشَّاهِد ﷺ", "english": "Ash-Shahid", "urdu": "گواہ"},
+    {
+      "arabic": "الشَّهِيد ﷺ",
+      "english": "Ash-Shaheed",
+      "urdu": "گواہی دینے والے",
+    },
+    {"arabic": "الْهَادِي ﷺ", "english": "Al-Hadi", "urdu": "ہدایت دینے والے"},
+    {
+      "arabic": "الْمَهْدِي ﷺ",
+      "english": "Al-Mahdi",
+      "urdu": "راہ دکھانے والے",
+    },
+    {
+      "arabic": "الدَّاعِي إِلَى اللّٰه ﷺ",
+      "english": "Ad-Daee Ilallah",
+      "urdu": "اللہ کی طرف بلانے والے",
+    },
+    {"arabic": "النَّاصِر ﷺ", "english": "An-Nasir", "urdu": "مدد کرنے والے"},
+    {
+      "arabic": "الْمَنْصُور ﷺ",
+      "english": "Al-Mansoor",
+      "urdu": "اللہ کی مدد یافتہ",
+    },
+    {"arabic": "الرَّؤُوف ﷺ", "english": "Ar-Raouf", "urdu": "نہایت مہربان"},
+    {
+      "arabic": "الرَّحِيم ﷺ",
+      "english": "Ar-Raheem",
+      "urdu": "بہت رحم کرنے والے",
+    },
+    {"arabic": "الْكَرِيم ﷺ", "english": "Al-Kareem", "urdu": "سخی"},
+    {"arabic": "الْعَظِيم ﷺ", "english": "Al-Azeem", "urdu": "بزرگ"},
+    {
+      "arabic": "الْمُطَاع ﷺ",
+      "english": "Al-Muta",
+      "urdu": "جن کی اطاعت کی جائے",
+    },
+    {
+      "arabic": "الْمُصَدِّق ﷺ",
+      "english": "Al-Musaddiq",
+      "urdu": "تصدیق کرنے والے",
+    },
+    {"arabic": "الْمِصْبَاح ﷺ", "english": "Al-Misbah", "urdu": "چراغ"},
+    {
+      "arabic": "الْمُزَّمِّل ﷺ",
+      "english": "Al-Muzzammil",
+      "urdu": "چادر اوڑھنے والے",
+    },
+    {
+      "arabic": "الْمُدَّثِّر ﷺ",
+      "english": "Al-Muddathir",
+      "urdu": "چادر میں لپٹے ہوئے",
+    },
+    {
+      "arabic": "الْمُزَكِّي ﷺ",
+      "english": "Al-Muzakki",
+      "urdu": "پاک کرنے والے",
+    },
+    {
+      "arabic": "الْمُتَوَكِّل ﷺ",
+      "english": "Al-Mutawakkil",
+      "urdu": "اللہ پر بھروسہ کرنے والے",
+    },
+    {"arabic": "الْوَلِي ﷺ", "english": "Al-Wali", "urdu": "دوست"},
+    {"arabic": "الْعَاقِب ﷺ", "english": "Al-Aqib", "urdu": "آخر میں آنے والے"},
+    {"arabic": "الْمَاحِي ﷺ", "english": "Al-Mahi", "urdu": "کفر مٹانے والے"},
+    {"arabic": "الْحَاشِر ﷺ", "english": "Al-Hashir", "urdu": "جمع کرنے والے"},
+    {
+      "arabic": "سَيِّدُ وَلَدِ آدَم ﷺ",
+      "english": "Sayyid Walad Adam",
+      "urdu": "اولادِ آدم کے سردار",
+    },
+  ];
+}
